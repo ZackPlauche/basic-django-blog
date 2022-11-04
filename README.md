@@ -1,4 +1,5 @@
-Learn how to host a Django project on Fly.io
+Test app to learn where and how the fuck to host a Django server on something besides Heroku.
 
-## Reference urls.
-[Setting up Djagno on Fly.io](https://dev.to/teachmetechy/django-rest-framework-on-flyio-582p)
+
+- [ ] Host for free on another platform.
+- [ ] Find a free database host for hosting on another platform.
